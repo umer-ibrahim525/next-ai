@@ -5,7 +5,7 @@ An AI-powered quote generator built with Next.js and OpenAI API.
 ## Features
 
 - Generate motivational quotes using OpenAI API
-- Choose from different quote tones (Motivational, Funny, Inspirational)
+- Enter quote tones (Motivational, Funny, Inspirational)
 - Clean and responsive UI with Tailwind CSS
 - Loading spinner while generating quotes
 
