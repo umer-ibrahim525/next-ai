@@ -33,7 +33,7 @@ npm run dev
 
 ## Tech Stack
 
-- Next.js 14 (App Router)
+- Next.js 15 (App Router)
 - TypeScript
 - Tailwind CSS
 - OpenAI API
